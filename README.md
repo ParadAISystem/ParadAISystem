@@ -1,6 +1,3 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG13MWR3NndwN2pnaTlyb3NqY2I5bDJscW1mM283bGNzM2Q1bDZocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjo6iDX2j/giphy.gif" alt="Banner de código y desarrollo web" width="800">
-  
-
 ¡Hola! Soy Luis Duarte 👋
 
   Bienvenido a mi espacio digital. Soy un Productor y diseño paginas web apasionado que combina creatividad y lógica para construir páginas web modernas y eficientes. Me especializo utilizando tecnologías como HTML, CSS, JavaScript, Python y Tailwind CSS.
@@ -28,8 +25,8 @@ Aquí hay un vistazo de las herramientas con las que trabajo:
 
 📊 Mis Estadísticas en GitHub
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tu-usuario-de-github&#x26;show_icons=true&#x26;locale=es&#x26;theme=tokyonight" alt="Estadísticas de GitHub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tu-usuario-de-github&#x26;layout=compact&#x26;locale=es&#x26;theme=tokyonight" alt="Lenguajes más usados">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?ParadAISystem;show_icons=true&#x26;locale=es&#x26;theme=tokyonight" alt="Estadísticas de GitHub">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?ParadAISystem;layout=compact&#x26;locale=es&#x26;theme=tokyonight" alt="Lenguajes más usados">
 
 
 
