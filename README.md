@@ -15,6 +15,7 @@ Mi pasión es crear experiencias digitales intuitivas y responsive. Me enfoco en
 🛠️ Tecnologías y Habilidades
 Aquí hay un vistazo de las herramientas con las que trabajo:
 
+<p align="left">
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&#x26;logo=html5&#x26;logoColor=white" alt="HTML5"> 
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&#x26;logo=css3&#x26;logoColor=white" alt="CSS3"> 
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&#x26;logo=javascript&#x26;logoColor=black" alt="JavaScript"> 
@@ -23,16 +24,9 @@ Aquí hay un vistazo de las herramientas con las que trabajo:
    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&#x26;logo=git&#x26;logoColor=white" alt="Git"> 
 
 
-📊 Mis Estadísticas en GitHub
+ ## 📊 Mis Estadísticas en GitHub
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?ParadAISystem;show_icons=true&#x26;locale=es&#x26;theme=tokyonight" alt="Estadísticas de GitHub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?ParadAISystem;layout=compact&#x26;locale=es&#x26;theme=tokyonight" alt="Lenguajes más usados">
-
-
-
-🌐 Conecta Conmigo
-
-  
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&#x26;logo=linkedin&#x26;logoColor=white" alt="[LinkedIn](https://www.linkedin.com/in/luis-carlos-duarte-figueroa-579013304/)">
-  
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ParadAISystem&layout=compact&locale=es&theme=tokyonight" alt="Lenguajes más usados" />
+</p>
 
