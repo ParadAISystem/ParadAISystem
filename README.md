@@ -9,7 +9,7 @@ Mi pasión es crear experiencias digitales intuitivas y responsive. Me enfoco en
 🌐 Desarrollo Web: Construyo sitios web dinámicos y aplicaciones utilizando HTML, CSS y JavaScript para el front-end, con Python para el back-end.
 🎨 Diseño con Tailwind CSS: Utilizo Tailwind para estilizar de manera rápida y consistente, priorizando la usabilidad y el rendimiento.
 🌱 Actualmente estoy estudiando certificados con google sobre diseño UX.
-📫 Contáctame a través de lparadiseofficial42@gmail.com o mis redes sociales.
+📫 Contáctame a través de info@parsd-ai.com o mis redes sociales.
 
 
 🛠️ Tecnologías y Habilidades
