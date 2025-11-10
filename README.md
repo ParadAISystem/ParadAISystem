@@ -22,6 +22,10 @@ Aquí hay un vistazo de las herramientas con las que trabajo:
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&#x26;logo=python&#x26;logoColor=white" alt="Python"> 
    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&#x26;logo=tailwind-css&#x26;logoColor=white" alt="Tailwind CSS"> 
    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&#x26;logo=git&#x26;logoColor=white" alt="Git"> 
+   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+   <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+</p>
 
 
  ## 📊 Mis Estadísticas en GitHub
